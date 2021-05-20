@@ -1,0 +1,5 @@
+Plugin:
+  Prefix: "&9&l新手村"
+  INFO: "&a>> &r"
+  WARN: "&e>> &r"
+  ERROR: "&c>> &r"

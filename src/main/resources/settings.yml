@@ -1,0 +1,4 @@
+Vault:
+  Enable: false
+Schematic:
+  Path: "house.schematic"

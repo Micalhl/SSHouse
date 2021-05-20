@@ -1,0 +1,9 @@
+name: SSHouse
+version: ${project.version}
+main: me.mical.sshouse.SSHouse
+api-version: 1.16
+authors: [ Mical ]
+commands:
+  sshouse:
+    aliases:
+      - house
