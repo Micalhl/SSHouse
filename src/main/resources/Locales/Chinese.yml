@@ -3,3 +3,13 @@ Plugin:
   INFO: "&a>> &r"
   WARN: "&e>> &r"
   ERROR: "&c>> &r"
+Lang:
+  Break: "此世界为新手村世界, 你必须圈地才能建造/破坏或交互. 查看帮助, 请输入 /sshouse"
+  Generate: "已在位于(&c{0}&f)处自动建造新手房屋."
+  GenerateWithResidence: "已在位于(&c{0}&f)处自动建造新手房屋, 并在中心点(&c{1}&f)处以半径为&c{2}&f格的区域内自动创建了领地."
+  Join: "你进入了 &c{0}&f."
+  Leave: "你离开了 &c{0}&f."
+  AlreadyHas: "你已经领取过新手房屋了, 不能重复领取."
+  FailBecauseResidence: "周围有其他领地, 无法圈地, 故无法领取."
+  FailBecauseBlock: "区域内有方块, 无法生成, 故无法领取."
+  FailBecauseSchematic: "房屋模板文件不存在或不可用, 无法释放房屋, 故无法领取. 请联系管理员来解决这个问题."
